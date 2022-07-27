@@ -1,0 +1,12 @@
+{
+  "name": "04.-recipe-page-master",
+  "version": "1.0.0",
+  "description": "Reto devChallenger.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "juan Martinez",
+  "license": "MIT"
+}

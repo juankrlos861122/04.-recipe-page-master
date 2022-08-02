@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe Page Master | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -28,10 +28,8 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -52,7 +50,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/juankrlos861122/04.-recipe-page-master.git
 
 # Install dependencies
 $ npm install
@@ -61,16 +59,8 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@juankrlos861122](https://github.com/juankrlos861122)
+- Twitter [@juancmartinez86](https://twitter.com/juancmartinez86)
+- devChangelles [@juankrlos861122](https://devchallenges.io/portfolio/juankrlos861122)
